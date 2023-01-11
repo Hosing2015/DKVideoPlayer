@@ -10,7 +10,7 @@ task androidSourcesJar(type: Jar) {
 }
 
 ext {
-    PUBLISH_GROUP_ID = 'com.hosing.android.dkplayer'
+    PUBLISH_GROUP_ID = 'com.github.Hosing2015'
     PUBLISH_VERSION = project.ext.releaseVersion
 }
 
